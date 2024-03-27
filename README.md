@@ -20,4 +20,6 @@ PRs will only be merged if it matches the video accompaniment perfectly.
 
 Feel free to submit a PR with notes on what (if anything) needs changing in the video content. Every change will be on a case by case basis.
 
-If breaking version changes have come about that require a code change. Make a PR then immediately notify the head of instruction and an urgent change will be queued. SLA for this is 24 hours so be quick.
+### Important
+
+If breaking version changes have come about that require a code + video change. Make a PR then immediately notify the head of instruction and an urgent change will be created. We have a 24 hour SLA for this so be quick.
